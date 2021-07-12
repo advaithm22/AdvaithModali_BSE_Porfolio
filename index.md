@@ -1,5 +1,5 @@
 ﻿# Image Recognition Using Raspberry Pi 
-In this project, I use Raspberry Pi and TensorFlow to train the computer to interpret images of common objects and classify them. After analyzing the image, the Raspberry Pi will output the subject of the image to the user, providing a range of possible outputs and the chance of the image being each of the listed possibilities. 
+In this project, I use Raspberry Pi and TensorFlow to train the computer to interpret images of common objects and classify them. After analyzing the image, the Raspberry Pi will output the subject of the image to the user, providing a range of possible outputs and the chance of the image being each of the listed possibilities. My specific goal is to use the program to analyze models of chemical compounds and output the properties of the compounds' to the user.
 
 | **Engineer** | **School** | **Area of Interest** | **Grade** |
 |:--:|:--:|:--:|:--:|
@@ -11,7 +11,7 @@ In this project, I use Raspberry Pi and TensorFlow to train the computer to inte
 # First Milestone
 My first milestone was setting up the Raspberry Pi with the appropriate operating system and monitor, as well as writing the code in the terminal to complete basic image recognition of simple images. Using TensorFlow and Python, I was able to download all the necessary modules which contain files that carry out the process of image recognition. Following this, I trained the Pi with a simple image of a panda and it was able to produce a list of potential outputs of the animal which could be in the image, with the panda receiving the highest probability. However, the Raspberry Pi ran out of storage, so I continued the project on a Macbook. Towards the end of the project, I will transfer the model to the Pi, which will perform the classification. 
 
-[![First Milestone](https://res.cloudinary.com/marcomontalbano/image/upload/v1612573869/video_to_markdown/images/youtube--F7M7imOVGug-c05b58ac6eb4c4700831b2b3070cd403.jpg )](https://www.youtube.com/watch?v=F7M7imOVGug&feature=emb_logo "Final Milestone"){:target="_blank" rel="noopener"}
+[![Advaith's First Milestone](https://res.cloudinary.com/marcomontalbano/image/upload/v1626108347/video_to_markdown/images/youtube--DQkVnk6YrMI-c05b58ac6eb4c4700831b2b3070cd403.jpg)](https://www.youtube.com/watch?v=DQkVnk6YrMI "Advaith's First Milestone") {:target="_blank" rel="noopener"}
 
 # Second Milestone
 My final milestone is the increased reliability and accuracy of my robot. I ameliorated the sagging and fixed the reliability of the finger. As discussed in my second milestone, the arm sags because of weight. I put in a block of wood at the base to hold up the upper arm; this has reverberating positive effects throughout the arm. I also realized that the forearm was getting disconnected from the elbow servo’s horn because of the weight stress on the joint. Now, I make sure to constantly tighten the screws at that joint.
