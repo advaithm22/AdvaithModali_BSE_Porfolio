@@ -1,5 +1,5 @@
 ﻿# Image Recognition Using Raspberry Pi 
-In this project, I use Raspberry Pi and TensorFlow to train the computer to interpret images of common objects and classify them. After analyzing the image, the Raspberry Pi will output the subject of the image to the user, providing a range of possible outputs and the chance of the image being each of the listed possibilities. My specific goal is to use the program to analyze models of chemical compounds and output the properties of the compounds' to the user.
+In this project, I use Raspberry Pi and TensorFlow to train the computer to interpret images of common objects and classify them. After analyzing the image, the Raspberry Pi will output the subject of the image to the user, providing a range of possible outputs and the chance of the image being each of the listed possibilities. My specific goal is to use the program to analyze models of chemical compounds and output the name of the compound to the user.
 
 | **Engineer** | **School** | **Area of Interest** | **Grade** |
 |:--:|:--:|:--:|:--:|
@@ -14,7 +14,7 @@ My first milestone was setting up the Raspberry Pi with the appropriate operatin
 [![Advaith's First Milestone](https://res.cloudinary.com/marcomontalbano/image/upload/v1626108347/video_to_markdown/images/youtube--DQkVnk6YrMI-c05b58ac6eb4c4700831b2b3070cd403.jpg)](https://www.youtube.com/watch?v=DQkVnk6YrMI "Advaith's First Milestone") {:target="_blank" rel="noopener"}
 
 # Second Milestone
-My second milestone was to use a dataset and import it into the terminal of my computer to start using it to train a model capable. At first I chose a dataset with over 4.4 million files of known chemical compounds, with the goal of using a trained model to interpret the image and output the name of the compound to the user. However, due to the size of the dataset, I was unable to use the trained model to classify the images. To fix this issue, I created my own dataset using a template found on github, consisting of 50 images depicting known aromatic compounds. In the next milestone, my goal is to use the new dataset and train a model capable of image recognition. Ultimately, the final product will be transferred to the Raspberry Pi using a feature in TensorFlow.
+My second milestone was to use a dataset and import it into the terminal of my computer to start using it to train a model capable. At first I chose a dataset with over 4.4 million files of known chemical compounds, with the goal of using a trained model to interpret the image and output the name of the compound to the user. However, due to the size of the dataset, I was unable to use the trained model to classify the images. To fix this issue, I used an already existing dataset (https://people.csail.mit.edu/lavanya/fmd.html). This dataset consists of images of everyday objects, such as leather, glass, and fabric, with each general class having about 100 images. In the next milestone, my goal is to use the new dataset and train a model capable of image recognition. Ultimately, the final product will be transferred to the Raspberry Pi using a feature in TensorFlow.
 
 Here is the code that I used from the github:
 
