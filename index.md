@@ -16,6 +16,9 @@ My first milestone was setting up the Raspberry Pi with the appropriate operatin
 # Second Milestone
 My second milestone was to use a dataset and import it into the terminal of my computer to start using it to train a model capable. At first I chose a dataset with over 4.4 million files of known chemical compounds, with the goal of using a trained model to interpret the image and output the name of the compound to the user. However, due to the size of the dataset, I was unable to use the trained model to classify the images. To fix this issue, I created my own dataset using a template found on github, consisting of 50 images depicting known aromatic compounds. In the next milestone, my goal is to use the new dataset and train a model capable of image recognition. Ultimately, the final product will be transferred to the Raspberry Pi using a feature in TensorFlow.
 
+Here is the code that I used from the github:
+
+
 [![Advaith's Second Milestone](https://res.cloudinary.com/marcomontalbano/image/upload/v1612574014/video_to_markdown/images/youtube--y3VAmNlER5Y-c05b58ac6eb4c4700831b2b3070cd403.jpg)](https://www.youtube.com/watch?v=y3VAmNlER5Y&feature=emb_logo "Second Milestone"){:target="_blank" rel="noopener"}
 # Final Milestone
   
