@@ -19,7 +19,7 @@ My second milestone was to use a dataset and import it into the terminal of my c
 Here is the code that I used from the github:
 <img src="images/Screen Shot 2021-07-16 at 9.52.34 AM.png" width=500 align=center style="float:right; padding-right:10px">
 
-[![Advaith's Second Milestone](https://res.cloudinary.com/marcomontalbano/image/upload/v1612574014/video_to_markdown/images/youtube--y3VAmNlER5Y-c05b58ac6eb4c4700831b2b3070cd403.jpg)](https://www.youtube.com/watch?v=y3VAmNlER5Y&feature=emb_logo "Second Milestone"){:target="_blank" rel="noopener"}
+[![Advaith's Second Milestone](https://res.cloudinary.com/marcomontalbano/image/upload/v1626710909/video_to_markdown/images/youtube--ybwLgJEi8nY-c05b58ac6eb4c4700831b2b3070cd403.jpg)](https://youtu.be/ybwLgJEi8nY "Advaith's Second Milestone"){:target="_blank" rel="noopener"}
 # Final Milestone
   
 
