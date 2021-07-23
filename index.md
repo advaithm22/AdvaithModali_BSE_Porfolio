@@ -32,6 +32,6 @@ Here is some of the code that I used to create a model to train the dataset:
 
 Here is how I trained the dataset:
 
-<img src="images/Screen Shot 2021-07-23 at 10.04.27 AM.png" width=500 align=center style="float:right; padding-right:10px">
+<img src="images/Screen Shot 2021-07-23 at 10.04.27 AM.png" width=500 align=left style="float:right; padding-right:10px">
 
 [![Advaith's Final Milestone](https://res.cloudinary.com/marcomontalbano/image/upload/v1612574117/video_to_markdown/images/youtube--CaCazFBhYKs-c05b58ac6eb4c4700831b2b3070cd403.jpg)](https://www.youtube.com/watch?v=CaCazFBhYKs "First Milestone"){:target="_blank" rel="noopener"}
