@@ -28,7 +28,7 @@ My final milestone was to use a neural network to interpret the images from the 
 
 Here is some of the code that I used to create a model to train the dataset:
 
-<img src="images/carbon.png" width=500 align=left style="float:right; padding-right:10px">
+<img src="images/carbon.png" width=500 align=right style="float:right; padding-right:10px">
 
 Here is how I trained the dataset:
 
