@@ -3,7 +3,7 @@ In this project, I use Raspberry Pi and TensorFlow to train the computer to inte
 
 | **Engineer** | **School** | **Area of Interest** | **Grade** |
 |:--:|:--:|:--:|:--:|
-| Advaith Modali | Archbishop Mitty High School | Computer Science/Electrical Engineering | Incoming Senior
+| Advaith M.| Archbishop Mitty High School | Computer Science/Electrical Engineering | Incoming Senior
 
 ![Headstone Image](https://bluestampengineering.com/wp-content/uploads/2020/05/facial-recognition-data-points-6.jpg)
 ![Relevant Name](https://www.raspberrypi.org/homepage-9df4b/static/532b4c25752c4235d76cc41051baf9ab/16e7d/877fb653-7b43-4931-9cee-977a22571f65_3b%2BAngle%2B2%2Brefresh.jpg)
@@ -31,4 +31,4 @@ Here is how I trained the dataset:
 
 <img src="images/Screen Shot 2021-07-23 at 10.04.27 AM.png" width=500 align=left style="float:right; padding-right:10px">
 
-[![Advaith's Final Milestone](https://res.cloudinary.com/marcomontalbano/image/upload/v1612574117/video_to_markdown/images/youtube--CaCazFBhYKs-c05b58ac6eb4c4700831b2b3070cd403.jpg)](https://www.youtube.com/watch?v=CaCazFBhYKs "First Milestone"){:target="_blank" rel="noopener"}
+[![Advaith's Final Milestone](https://res.cloudinary.com/marcomontalbano/image/upload/v1627066013/video_to_markdown/images/youtube--7j1Vi_9fRsc-c05b58ac6eb4c4700831b2b3070cd403.jpg)](https://www.youtube.com/watch?v=7j1Vi_9fRsc "Advaith's Final Milestone"){:target="_blank" rel="noopener"}
